@@ -19,7 +19,7 @@ After completing this lesson, you will be able to:
 You will be better equipped to work through this lesson if you have experience and familiarity with:
 
 *   Computer concepts (login, logout, window components, tabs, toolbars).
-*   Navigating and using_ w_eb browsers.
+*   Navigating and using web browsers.
 *   Keyboard and pointing device (i.e., mouse).
 
 ## Assets
