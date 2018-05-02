@@ -118,7 +118,7 @@ Plugins also add items to this menu, in positions that are controlled by the plu
 
 Open and look at the Posts list page. [open posts if not already open]. When you click on the title of a post, it will open in the editor. However, notice that when you roll the mouse pointer over the title of a post, additional links appear below the title. These include **Edit** (same as clicking on the title), **Quick Edit**, **Trash** and **View**. Some plugins add more links here as well.
 
-*   **Quick Edit **allows you to change much of the _meta information_ about the post, without opening it in the editor. You can quickly change the post's categories, tags and several other items that you'll learn more about later.
+*   **Quick Edit** allows you to change much of the _meta information_ about the post, without opening it in the editor. You can quickly change the post's categories, tags and several other items that you'll learn more about later.
 *   **Trash** moves the post to the trash folder. You can recover anything that you have put into the trash for up 30 days, unless you have intentionally deleted it or unless your WordPress install has designated a different length of time.
 *   **View** links to the publicly visible post on the site.
 
