@@ -52,7 +52,9 @@ Replace "yourwebsite.com" with the actual URL of your website. Enter your userna
 
 ### Admin Bar
 
-[caption id="attachment_1556" align="alignright" width="300"][![Admin Bar](http://make.wordpress.org/training/files/2014/10/dashboard_admin_bar-300x184.png)](http://make.wordpress.org/training/files/2014/10/dashboard_admin_bar.png) Dashboard Admin Bar[/caption] The Admin Bar is the dark gray menu bar that appears across the top of the dashboard. It also appears across the top of the site itself, when you are logged in. However it is _not_ visible to public visitors to the site. [tip] At the screenshots embedded further in the text you can see one of possible dashboard configurations. The dashboard view will change based on what plugins you have active, your hosting company, and how you personally configure it.[/tip]
+[caption id="attachment_1556" align="alignright" width="300"][![Admin Bar](http://make.wordpress.org/training/files/2014/10/dashboard_admin_bar-300x184.png)](http://make.wordpress.org/training/files/2014/10/dashboard_admin_bar.png) Dashboard Admin Bar[/caption] The Admin Bar is the dark gray menu bar that appears across the top of the dashboard. It also appears across the top of the site itself, when you are logged in. However it is _not_ visible to public visitors to the site. 
+
+[tip] At the screenshots embedded further in the text you can see one of possible dashboard configurations. The dashboard view will change based on what plugins you have active, your hosting company, and how you personally configure it.[/tip]
 
 ### WordPress Icon
 
@@ -85,7 +87,11 @@ The Help tab, also located directly below the dark grey admin bar, contains info
 
 ### Page Body
 
-[caption id="attachment_1558" align="alignright" width="300"][![Dashboard Body](http://make.wordpress.org/training/files/2014/10/dashboard_body1-300x184.png)](http://make.wordpress.org/training/files/2014/10/dashboard_body1.png) Dashboard Body[/caption] In the body of the Dashboard, you'll find a number of administrative widgets or panels. You've seen how these can be shown and hidden using the checkboxes in the Screen Options tab. Their position can also be changed, simply by dragging and dropping them. [Demonstrate dragging and dropping.] [tip]Note that at the screenshot one of the possible WP dashboard configurations is displayed.  The <span class="match">dashboard</span>view will change based on what plugins you have active, your hosting company, and how you personally configure it.[/tip] There are a number of widgets here that are included when WordPress is installed, including:
+[caption id="attachment_1558" align="alignright" width="300"][![Dashboard Body](http://make.wordpress.org/training/files/2014/10/dashboard_body1-300x184.png)](http://make.wordpress.org/training/files/2014/10/dashboard_body1.png) Dashboard Body[/caption] In the body of the Dashboard, you'll find a number of administrative widgets or panels. You've seen how these can be shown and hidden using the checkboxes in the Screen Options tab. Their position can also be changed, simply by dragging and dropping them. [Demonstrate dragging and dropping.] 
+
+[tip]Note that at the screenshot one of the possible WP dashboard configurations is displayed.  The <span class="match">dashboard</span>view will change based on what plugins you have active, your hosting company, and how you personally configure it.[/tip]
+
+There are a number of widgets here that are included when WordPress is installed, including:
 
 *   **At A Glance**. This widget gives you some quick totals for the number of pages, posts and comments that are currently on your site. It also displays the current theme and will note if search engines are discouraged from indexing the site.
 *   **Quick Draft**. Anything entered into this form will be saved _as a draft post_. That is, it will be saved but not be published on the site. A list of links to currently saved drafts is shown underneath this form. This is handy for jotting down quick ideas for posts that you want to come back and finish later.
