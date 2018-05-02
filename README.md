@@ -104,17 +104,37 @@ There are a number of widgets here that are included when WordPress is installed
 
 ### Left Sidebar
 
-[caption id="attachment_1388" align="alignright" width="300"][![Dashboard Sidebar](http://make.wordpress.org/training/files/2014/10/dashboard_sidebar-300x184.png)](http://make.wordpress.org/training/files/2014/10/dashboard_sidebar.png) Dashboard Sidebar[/caption] The most common way of moving around in the admin area is by using the navigation links in the left sidebar. Some of these are used much more frequently than others, particularly posts, pages and comments. When there are sub-menu items, they are displayed in dynamic fly-out menus [demonstrate] and after you've clicked on a menu item with sub-menus, the submenus will be displayed in the sidebar [demonstrate with Posts]. As you can see, these are the sub-menu items available under Posts. The menu items in the sidebar will vary, depending on the role assigned to you as a user. For instance, a user with the role of Author wouldn't see any of the menu items that are unrelated to editing posts and pages. Users with the role of Admin will see everything available for the site. Plugins also add items to this menu, in positions that are controlled by the plugin author.
+[caption id="attachment_1388" align="alignright" width="300"][![Dashboard Sidebar](http://make.wordpress.org/training/files/2014/10/dashboard_sidebar-300x184.png)](http://make.wordpress.org/training/files/2014/10/dashboard_sidebar.png) Dashboard Sidebar[/caption] The most common way of moving around in the admin area is by using the navigation links in the left sidebar. Some of these are used much more frequently than others, particularly posts, pages and comments. 
+
+When there are sub-menu items, they are displayed in dynamic fly-out menus [demonstrate] and after you've clicked on a menu item with sub-menus, the submenus will be displayed in the sidebar [demonstrate with Posts]. As you can see, these are the sub-menu items available under Posts. 
+
+The menu items in the sidebar will vary, depending on the role assigned to you as a user. For instance, a user with the role of Author wouldn't see any of the menu items that are unrelated to editing posts and pages. Users with the role of Admin will see everything available for the site. 
+
+Plugins also add items to this menu, in positions that are controlled by the plugin author.
 
 #### Posts List
 
-[caption id="attachment_1766" align="alignright" width="300"][![Posts List](http://make.wordpress.org/training/files/2014/10/posts_list-300x167.png)](http://make.wordpress.org/training/files/2014/10/posts_list.png) Posts List[/caption] WordPress displays many different collections of items in tabular format. Plugin authors are urged to display information in this format but some choose not to, which can be confusing. Open and look at the Posts list page. [open posts if not already open]. When you click on the title of a post, it will open in the editor. However, notice that when you roll the mouse pointer over the title of a post, additional links appear below the title. These include **Edit** (same as clicking on the title), **Quick Edit**, **Trash** and **View**. Some plugins add more links here as well.
+[caption id="attachment_1766" align="alignright" width="300"][![Posts List](http://make.wordpress.org/training/files/2014/10/posts_list-300x167.png)](http://make.wordpress.org/training/files/2014/10/posts_list.png) Posts List[/caption] WordPress displays many different collections of items in tabular format. Plugin authors are urged to display information in this format but some choose not to, which can be confusing. 
+
+Open and look at the Posts list page. [open posts if not already open]. When you click on the title of a post, it will open in the editor. However, notice that when you roll the mouse pointer over the title of a post, additional links appear below the title. These include **Edit** (same as clicking on the title), **Quick Edit**, **Trash** and **View**. Some plugins add more links here as well.
 
 *   **Quick Edit **allows you to change much of the _meta information_ about the post, without opening it in the editor. You can quickly change the post's categories, tags and several other items that you'll learn more about later.
 *   **Trash** moves the post to the trash folder. You can recover anything that you have put into the trash for up 30 days, unless you have intentionally deleted it or unless your WordPress install has designated a different length of time.
 *   **View** links to the publicly visible post on the site.
 
-[caption id="attachment_1767" align="alignright" width="300"][![Posts Bulk Edit](http://make.wordpress.org/training/files/2014/10/posts_bulk_edit-300x167.png)](http://make.wordpress.org/training/files/2014/10/posts_bulk_edit.png) Posts Bulk Edit[/caption] You can use the checkboxes next to the titles to perform actions on multiple items. After checking one or more boxes [check some boxes], the **Bulk Actions** drop-down shows you the actions that can be performed. [Click drop-down] As you can see, the actions here are **Edit** and **Move to Trash**. If you select **Edit** and click **Apply**, you'll see the same menu that we did earlier for **Quick Edit**. Except now, any changes will be applied to all of the items with checked boxes, when the **Update** button is clicked. Be careful, you can change a lot of things with one click [click Cancel]. Selecting **Move to Trash** and clicking **Apply** moves all of the checked posts to the trash folder. The links above the table will filter the list of posts to show **All**, **Published**, **Drafts** and **Trash**. [Move something to the Trash, if there's nothing there already] When looking at the list of posts in the Trash, the rollover links include **Restore** and **Delete Permanently** [demonstrate Restore]. You can also filter the list of posts by dates (month and year) or categories [click drop-downs to demonstrate]. The pagination control allows you to step through the list of items one page at a time. Lastly, you can search for words or phrases that may be contained in your posts. Any posts that contain the search words will be displayed.
+[caption id="attachment_1767" align="alignright" width="300"][![Posts Bulk Edit](http://make.wordpress.org/training/files/2014/10/posts_bulk_edit-300x167.png)](http://make.wordpress.org/training/files/2014/10/posts_bulk_edit.png) Posts Bulk Edit[/caption] You can use the checkboxes next to the titles to perform actions on multiple items. After checking one or more boxes [check some boxes], the **Bulk Actions** drop-down shows you the actions that can be performed. [Click drop-down] As you can see, the actions here are **Edit** and **Move to Trash**. 
+
+If you select **Edit** and click **Apply**, you'll see the same menu that we did earlier for **Quick Edit**. Except now, any changes will be applied to all of the items with checked boxes, when the **Update** button is clicked. Be careful, you can change a lot of things with one click [click Cancel]. 
+
+Selecting **Move to Trash** and clicking **Apply** moves all of the checked posts to the trash folder. 
+
+The links above the table will filter the list of posts to show **All**, **Published**, **Drafts** and **Trash**. [Move something to the Trash, if there's nothing there already] When looking at the list of posts in the Trash, the rollover links include **Restore** and **Delete Permanently** [demonstrate Restore]. 
+
+You can also filter the list of posts by dates (month and year) or categories [click drop-downs to demonstrate]. 
+
+The pagination control allows you to step through the list of items one page at a time. 
+
+Lastly, you can search for words or phrases that may be contained in your posts. Any posts that contain the search words will be displayed.
 
 #### Pages List
 
