@@ -71,7 +71,9 @@ The next icon on the admin bar is the home icon for your site.  Clicking this l
 
 ### Notification Icons
 
-There are two notification icons that can appear in the Admin Bar. **Comments** is always visible. If there are comments pending on your site, this icon changes color and the number of comments is displayed next to the icon. Clicking the icon takes you to the Comments page. There is also an **Updates** icon, that appears when there are updates available to your plugins, themes or the WordPress core files. Clicking this icon takes you to the Updates page. Hovering over **New** brings up a menu of links to create new items such as Pages, Posts or Media items. The actual contents of this list depends on your user role. For example, if your role doesn't allow you to create new users, you won't see users in this menu. Some plugins also add items to this menu. Note that this menu duplicates some of the links on the sidebar menu, which we'll get to in a few minutes.
+There are two notification icons that can appear in the Admin Bar. **Comments** is always visible. If there are comments pending on your site, this icon changes color and the number of comments is displayed next to the icon. Clicking the icon takes you to the Comments page. There is also an **Updates** icon, that appears when there are updates available to your plugins, themes or the WordPress core files. Clicking this icon takes you to the Updates page. 
+
+Hovering over **New** brings up a menu of links to create new items such as Pages, Posts or Media items. The actual contents of this list depends on your user role. For example, if your role doesn't allow you to create new users, you won't see users in this menu. Some plugins also add items to this menu. Note that this menu duplicates some of the links on the sidebar menu, which we'll get to in a few minutes.
 
 ### User Name and Avatar
 
@@ -79,7 +81,9 @@ In the far right corner of the admin bar, you will see your user name and avatar
 
 ### Screen Options Tab
 
-The Screen Options tab appears on most administrative pages and it allows you to control the elements that appear on the page. These are the elements that appear _to you_. When other people log in to the Dashboard, they will see the selections that _they_ have chosen. Click the Screen Options tab and you'll see a list of the _administrative widgets_ that are available on that page. Each widget has a checkbox to control its display on that page. [Demonstrate checking and unchecking boxes]. Different pages will have different selections and some pages, like the Editor, have a lot more than this. It is common for a screen to be missing information (for example, post excerpt section is simply not showing.)  This can be a frustrating experience and the screen options tab can be the solution.
+The Screen Options tab appears on most administrative pages and it allows you to control the elements that appear on the page. These are the elements that appear _to you_. When other people log in to the Dashboard, they will see the selections that _they_ have chosen. 
+
+Click the Screen Options tab and you'll see a list of the _administrative widgets_ that are available on that page. Each widget has a checkbox to control its display on that page. [Demonstrate checking and unchecking boxes]. Different pages will have different selections and some pages, like the Editor, have a lot more than this. It is common for a screen to be missing information (for example, post excerpt section is simply not showing.)  This can be a frustrating experience and the screen options tab can be the solution.
 
 ### Help Tab
 
