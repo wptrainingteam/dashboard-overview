@@ -93,7 +93,7 @@ The Help tab, also located directly below the dark grey admin bar, contains info
 
 [caption id="attachment_1558" align="alignright" width="300"][![Dashboard Body](http://make.wordpress.org/training/files/2014/10/dashboard_body1-300x184.png)](http://make.wordpress.org/training/files/2014/10/dashboard_body1.png) Dashboard Body[/caption] In the body of the Dashboard, you'll find a number of administrative widgets or panels. You've seen how these can be shown and hidden using the checkboxes in the Screen Options tab. Their position can also be changed, simply by dragging and dropping them. [Demonstrate dragging and dropping.] 
 
-[tip]Note that at the screenshot one of the possible WP dashboard configurations is displayed.  The <span class="match">dashboard</span>view will change based on what plugins you have active, your hosting company, and how you personally configure it.[/tip]
+[tip]Note that at the screenshot one of the possible WP dashboard configurations is displayed.  The <span class="match">dashboard</span> view will change based on what plugins you have active, your hosting company, and how you personally configure it.[/tip]
 
 There are a number of widgets here that are included when WordPress is installed, including:
 
