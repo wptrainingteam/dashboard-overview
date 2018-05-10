@@ -19,7 +19,7 @@ After completing this lesson, you will be able to:
 You will be better equipped to work through this lesson if you have experience and familiarity with:
 
 *   Computer concepts (login, logout, window components, tabs, toolbars).
-*   Navigatingand using_ w_eb browsers.
+*   Navigating and using web browsers.
 *   Keyboard and pointing device (i.e., mouse).
 
 ## Assets
@@ -52,7 +52,9 @@ Replace "yourwebsite.com" with the actual URL of your website. Enter your userna
 
 ### Admin Bar
 
-[caption id="attachment_1556" align="alignright" width="300"][![Admin Bar](http://make.wordpress.org/training/files/2014/10/dashboard_admin_bar-300x184.png)](http://make.wordpress.org/training/files/2014/10/dashboard_admin_bar.png) Dashboard Admin Bar[/caption] The Admin Bar is the dark gray menu bar that appears across the top of the dashboard. It also appears across the top of the site itself, when you are logged in. However it is _not_ visible to public visitors to the site. [tip] At the screenshots embedded further in the text you can see one of possible dashboard configurations. The dashboard view will change based on what plugins you have active, your hosting company, and how you personally configure it.[/tip]
+[caption id="attachment_1556" align="alignright" width="300"][![Admin Bar](http://make.wordpress.org/training/files/2014/10/dashboard_admin_bar-300x184.png)](http://make.wordpress.org/training/files/2014/10/dashboard_admin_bar.png) Dashboard Admin Bar[/caption] The Admin Bar is the dark gray menu bar that appears across the top of the dashboard. It also appears across the top of the site itself, when you are logged in. However it is _not_ visible to public visitors to the site. 
+
+[tip] At the screenshots embedded further in the text you can see one of possible dashboard configurations. The dashboard view will change based on what plugins you have active, your hosting company, and how you personally configure it.[/tip]
 
 ### WordPress Icon
 
@@ -69,7 +71,9 @@ The next icon on the admin bar is the home icon for your site.  Clicking this l
 
 ### Notification Icons
 
-There are two notification icons that can appear in the Admin Bar. **Comments** is always visible. If there are comments pending on your site, this icon changes color and the number of comments is displayed next to the icon. Clicking the icon takes you to the Comments page. There is also an **Updates** icon, that appears when there are updates available to your plugins, themes or the WordPress core files. Clicking this icon takes you to the Updates page. Hovering over **New** brings up a menu of links to create new items such as Pages, Posts or Media items. The actual contents of this list depends on your user role. For example, if your role doesn't allow you to create new users, you won't see users in this menu. Some plugins also add items to this menu. Note that this menu duplicates some of the links on the sidebar menu, which we'll get to in a few minutes.
+There are two notification icons that can appear in the Admin Bar. **Comments** is always visible. If there are comments pending on your site, this icon changes color and the number of comments is displayed next to the icon. Clicking the icon takes you to the Comments page. There is also an **Updates** icon, that appears when there are updates available to your plugins, themes or the WordPress core files. Clicking this icon takes you to the Updates page. 
+
+Hovering over **New** brings up a menu of links to create new items such as Pages, Posts or Media items. The actual contents of this list depends on your user role. For example, if your role doesn't allow you to create new users, you won't see users in this menu. Some plugins also add items to this menu. Note that this menu duplicates some of the links on the sidebar menu, which we'll get to in a few minutes.
 
 ### User Name and Avatar
 
@@ -77,7 +81,9 @@ In the far right corner of the admin bar, you will see your user name and avatar
 
 ### Screen Options Tab
 
-The Screen Options tab appears on most administrative pages and it allows you to control the elements that appear on the page. These are the elements that appear _to you_. When other people log in to the Dashboard, they will see the selections that _they_ have chosen. Click the Screen Options tab and you'll see a list of the _administrative widgets_ that are available on that page. Each widget has a checkbox to control its display on that page. [Demonstrate checking and unchecking boxes]. Different pages will have different selections and some pages, like the Editor, have a lot more than this. It is common for a screen to be missing information (for example, post excerpt section is simply not showing.)  This can be a frustrating experience and the screen options tab can be the solution.
+The Screen Options tab appears on most administrative pages and it allows you to control the elements that appear on the page. These are the elements that appear _to you_. When other people log in to the Dashboard, they will see the selections that _they_ have chosen. 
+
+Click the Screen Options tab and you'll see a list of the _administrative widgets_ that are available on that page. Each widget has a checkbox to control its display on that page. [Demonstrate checking and unchecking boxes]. Different pages will have different selections and some pages, like the Editor, have a lot more than this. It is common for a screen to be missing information (for example, post excerpt section is simply not showing.)  This can be a frustrating experience and the screen options tab can be the solution.
 
 ### Help Tab
 
@@ -85,7 +91,11 @@ The Help tab, also located directly below the dark grey admin bar, contains info
 
 ### Page Body
 
-[caption id="attachment_1558" align="alignright" width="300"][![Dashboard Body](http://make.wordpress.org/training/files/2014/10/dashboard_body1-300x184.png)](http://make.wordpress.org/training/files/2014/10/dashboard_body1.png) Dashboard Body[/caption] In the body of the Dashboard, you'll find a number of administrative widgets or panels. You've seen how these can be shown and hidden using the checkboxes in the Screen Options tab. Their position can also be changed, simply by dragging and dropping them. [Demonstrate dragging and dropping.] [tip]Note that at the screenshot one of the possible WP dashboard configurations is displayed.  The <span class="match">dashboard</span>view will change based on what plugins you have active, your hosting company, and how you personally configure it.[/tip] There are a number of widgets here that are included when WordPress is installed, including:
+[caption id="attachment_1558" align="alignright" width="300"][![Dashboard Body](http://make.wordpress.org/training/files/2014/10/dashboard_body1-300x184.png)](http://make.wordpress.org/training/files/2014/10/dashboard_body1.png) Dashboard Body[/caption] In the body of the Dashboard, you'll find a number of administrative widgets or panels. You've seen how these can be shown and hidden using the checkboxes in the Screen Options tab. Their position can also be changed, simply by dragging and dropping them. [Demonstrate dragging and dropping.] 
+
+[tip]Note that at the screenshot one of the possible WP dashboard configurations is displayed.  The <span class="match">dashboard</span> view will change based on what plugins you have active, your hosting company, and how you personally configure it.[/tip]
+
+There are a number of widgets here that are included when WordPress is installed, including:
 
 *   **At A Glance**. This widget gives you some quick totals for the number of pages, posts and comments that are currently on your site. It also displays the current theme and will note if search engines are discouraged from indexing the site.
 *   **Quick Draft**. Anything entered into this form will be saved _as a draft post_. That is, it will be saved but not be published on the site. A list of links to currently saved drafts is shown underneath this form. This is handy for jotting down quick ideas for posts that you want to come back and finish later.
@@ -94,17 +104,37 @@ The Help tab, also located directly below the dark grey admin bar, contains info
 
 ### Left Sidebar
 
-[caption id="attachment_1388" align="alignright" width="300"][![Dashboard Sidebar](http://make.wordpress.org/training/files/2014/10/dashboard_sidebar-300x184.png)](http://make.wordpress.org/training/files/2014/10/dashboard_sidebar.png) Dashboard Sidebar[/caption] The most common way of moving around in the admin area is by using the navigation links in the left sidebar. Some of these are used much more frequently than others, particularly posts, pages and comments. When there are sub-menu items, they are displayed in dynamic fly-out menus [demonstrate] and after you've clicked on a menu item with sub-menus, the submenus will be displayed in the sidebar [demonstrate with Posts]. As you can see, these are the sub-menu items available under Posts. The menu items in the sidebar will vary, depending on the role assigned to you as a user. For instance, a user with the role of Author wouldn't see any of the menu items that are unrelated to editing posts and pages. Users with the role of Admin will see everything available for the site. Plugins also add items to this menu, in positions that are controlled by the plugin author.
+[caption id="attachment_1388" align="alignright" width="300"][![Dashboard Sidebar](http://make.wordpress.org/training/files/2014/10/dashboard_sidebar-300x184.png)](http://make.wordpress.org/training/files/2014/10/dashboard_sidebar.png) Dashboard Sidebar[/caption] The most common way of moving around in the admin area is by using the navigation links in the left sidebar. Some of these are used much more frequently than others, particularly posts, pages and comments. 
+
+When there are sub-menu items, they are displayed in dynamic fly-out menus [demonstrate] and after you've clicked on a menu item with sub-menus, the submenus will be displayed in the sidebar [demonstrate with Posts]. As you can see, these are the sub-menu items available under Posts. 
+
+The menu items in the sidebar will vary, depending on the role assigned to you as a user. For instance, a user with the role of Author wouldn't see any of the menu items that are unrelated to editing posts and pages. Users with the role of Admin will see everything available for the site. 
+
+Plugins also add items to this menu, in positions that are controlled by the plugin author.
 
 #### Posts List
 
-[caption id="attachment_1766" align="alignright" width="300"][![Posts List](http://make.wordpress.org/training/files/2014/10/posts_list-300x167.png)](http://make.wordpress.org/training/files/2014/10/posts_list.png) Posts List[/caption] WordPress displays many different collections of items in tabular format. Plugin authors are urged to display information in this format but some choose not to, which can be confusing. Open and look at the Posts list page. [open posts if not already open]. When you click on the title of a post, it will open in the editor. However, notice that when you roll the mouse pointer over the title of a post, additional links appear below the title. These include **Edit** (same as clicking on the title), **Quick Edit**, **Trash** and **View**. Some plugins add more links here as well.
+[caption id="attachment_1766" align="alignright" width="300"][![Posts List](http://make.wordpress.org/training/files/2014/10/posts_list-300x167.png)](http://make.wordpress.org/training/files/2014/10/posts_list.png) Posts List[/caption] WordPress displays many different collections of items in tabular format. Plugin authors are urged to display information in this format but some choose not to, which can be confusing. 
 
-*   **Quick Edit **allows you to change much of the _meta information_ about the post, without opening it in the editor. You can quickly change the post's categories, tags and several other items that you'll learn more about later.
+Open and look at the Posts list page. [open posts if not already open]. When you click on the title of a post, it will open in the editor. However, notice that when you roll the mouse pointer over the title of a post, additional links appear below the title. These include **Edit** (same as clicking on the title), **Quick Edit**, **Trash** and **View**. Some plugins add more links here as well.
+
+*   **Quick Edit** allows you to change much of the _meta information_ about the post, without opening it in the editor. You can quickly change the post's categories, tags and several other items that you'll learn more about later.
 *   **Trash** moves the post to the trash folder. You can recover anything that you have put into the trash for up 30 days, unless you have intentionally deleted it or unless your WordPress install has designated a different length of time.
 *   **View** links to the publicly visible post on the site.
 
-[caption id="attachment_1767" align="alignright" width="300"][![Posts Bulk Edit](http://make.wordpress.org/training/files/2014/10/posts_bulk_edit-300x167.png)](http://make.wordpress.org/training/files/2014/10/posts_bulk_edit.png) Posts Bulk Edit[/caption] You can use the checkboxes next to the titles to perform actions on multiple items. After checking one or more boxes [check some boxes], the **Bulk Actions** drop-down shows you the actions that can be performed. [Click drop-down] As you can see, the actions here are **Edit** and **Move to Trash**. If you select **Edit** and click **Apply**, you'll see the same menu that we did earlier for **Quick Edit**. Except now, any changes will be applied to all of the items with checked boxes, when the **Update** button is clicked. Be careful, you can change a lot of things with one click [click Cancel]. Selecting **Move to Trash** and clicking **Apply** moves all of the checked posts to the trash folder. The links above the table will filter the list of posts to show **All**, **Published**, **Drafts** and **Trash**. [Move something to the Trash, if there's nothing there already] When looking at the list of posts in the Trash, the rollover links include **Restore** and **Delete Permanently** [demonstrate Restore]. You can also filter the list of posts by dates (month and year) or categories [click drop-downs to demonstrate]. The pagination control allows you to step through the list of items one page at a time. Lastly, you can search for words or phrases that may be contained in your posts. Any posts that contain the search words will be displayed.
+[caption id="attachment_1767" align="alignright" width="300"][![Posts Bulk Edit](http://make.wordpress.org/training/files/2014/10/posts_bulk_edit-300x167.png)](http://make.wordpress.org/training/files/2014/10/posts_bulk_edit.png) Posts Bulk Edit[/caption] You can use the checkboxes next to the titles to perform actions on multiple items. After checking one or more boxes [check some boxes], the **Bulk Actions** drop-down shows you the actions that can be performed. [Click drop-down] As you can see, the actions here are **Edit** and **Move to Trash**. 
+
+If you select **Edit** and click **Apply**, you'll see the same menu that we did earlier for **Quick Edit**. Except now, any changes will be applied to all of the items with checked boxes, when the **Update** button is clicked. Be careful, you can change a lot of things with one click [click Cancel]. 
+
+Selecting **Move to Trash** and clicking **Apply** moves all of the checked posts to the trash folder. 
+
+The links above the table will filter the list of posts to show **All**, **Published**, **Drafts** and **Trash**. [Move something to the Trash, if there's nothing there already] When looking at the list of posts in the Trash, the rollover links include **Restore** and **Delete Permanently** [demonstrate Restore]. 
+
+You can also filter the list of posts by dates (month and year) or categories [click drop-downs to demonstrate]. 
+
+The pagination control allows you to step through the list of items one page at a time. 
+
+Lastly, you can search for words or phrases that may be contained in your posts. Any posts that contain the search words will be displayed.
 
 #### Pages List
 
