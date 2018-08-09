@@ -44,7 +44,7 @@ You will be better equipped to work through this lesson if you have experience a
 
 ### LogIn
 
-[caption id="attachment_1745" align="alignright" width="153"][![Login Form](http://make.wordpress.org/training/files/2014/10/login_form-229x300.png)](http://make.wordpress.org/training/files/2014/10/login_form.png) Login Form[/caption] To login to your site enter the following in the web browser address bar:
+To login to your site enter the following in the web browser address bar:
 
 yourwebsite.com/wp-admin
 
