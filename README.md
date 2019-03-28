@@ -52,7 +52,7 @@ Replace "yourwebsite.com" with the actual URL of your website. Enter your userna
 
 ### Admin Bar
 
-[caption id="attachment_1556" align="alignright" width="300"][![Admin Bar](http://make.wordpress.org/training/files/2014/10/dashboard_admin_bar-300x184.png)](http://make.wordpress.org/training/files/2014/10/dashboard_admin_bar.png) Dashboard Admin Bar[/caption] The Admin Bar is the dark gray menu bar that appears across the top of the dashboard. It also appears across the top of the site itself, when you are logged in. However it is _not_ visible to public visitors to the site. 
+[caption id="attachment_1556" align="alignright" width="300"][![Admin Bar](/images/Admin Bar.png)](/images/Admin Bar.png) Dashboard Admin Bar[/caption] The Admin Bar is the dark gray menu bar that appears across the top of the dashboard. It also appears across the top of the site itself, when you are logged in. However it is _not_ visible to public visitors to the site. 
 
 [tip] At the screenshots embedded further in the text you can see one of possible dashboard configurations. The dashboard view will change based on what plugins you have active, your hosting company, and how you personally configure it.[/tip]
 
@@ -91,7 +91,7 @@ The Help tab, also located directly below the dark grey admin bar, contains info
 
 ### Page Body
 
-[caption id="attachment_1558" align="alignright" width="300"][![Dashboard Body](http://make.wordpress.org/training/files/2014/10/dashboard_body1-300x184.png)](http://make.wordpress.org/training/files/2014/10/dashboard_body1.png) Dashboard Body[/caption] In the body of the Dashboard, you'll find a number of administrative widgets or panels. You've seen how these can be shown and hidden using the checkboxes in the Screen Options tab. Their position can also be changed, simply by dragging and dropping them. [Demonstrate dragging and dropping.] 
+[caption id="attachment_1558" align="alignright" width="300"][![Dashboard Body](/images/Dashboard.png)](/images/Dashboard.png) Dashboard Body[/caption] In the body of the Dashboard, you'll find a number of administrative widgets or panels. You've seen how these can be shown and hidden using the checkboxes in the Screen Options tab. Their position can also be changed, simply by dragging and dropping them. [Demonstrate dragging and dropping.] 
 
 [tip]Note that at the screenshot one of the possible WP dashboard configurations is displayed.  The <span class="match">dashboard</span> view will change based on what plugins you have active, your hosting company, and how you personally configure it.[/tip]
 
@@ -104,7 +104,7 @@ There are a number of widgets here that are included when WordPress is installed
 
 ### Left Sidebar
 
-[caption id="attachment_1388" align="alignright" width="300"][![Dashboard Sidebar](http://make.wordpress.org/training/files/2014/10/dashboard_sidebar-300x184.png)](http://make.wordpress.org/training/files/2014/10/dashboard_sidebar.png) Dashboard Sidebar[/caption] The most common way of moving around in the admin area is by using the navigation links in the left sidebar. Some of these are used much more frequently than others, particularly posts, pages and comments. 
+[caption id="attachment_1388" align="alignright" width="300"][![Dashboard Sidebar](/images/Dashboard Sidebar.png)](/images/Dashboard Sidebar.png) Dashboard Sidebar[/caption] The most common way of moving around in the admin area is by using the navigation links in the left sidebar. Some of these are used much more frequently than others, particularly posts, pages and comments. 
 
 When there are sub-menu items, they are displayed in dynamic fly-out menus [demonstrate] and after you've clicked on a menu item with sub-menus, the submenus will be displayed in the sidebar [demonstrate with Posts]. As you can see, these are the sub-menu items available under Posts. 
 
@@ -114,7 +114,7 @@ Plugins also add items to this menu, in positions that are controlled by the plu
 
 #### Posts List
 
-[caption id="attachment_1766" align="alignright" width="300"][![Posts List](http://make.wordpress.org/training/files/2014/10/posts_list-300x167.png)](http://make.wordpress.org/training/files/2014/10/posts_list.png) Posts List[/caption] WordPress displays many different collections of items in tabular format. Plugin authors are urged to display information in this format but some choose not to, which can be confusing. 
+[caption id="attachment_1766" align="alignright" width="300"][![Posts List](/images/Post-List.png)](/images/Post-List.png) Posts List[/caption] WordPress displays many different collections of items in tabular format. Plugin authors are urged to display information in this format but some choose not to, which can be confusing. 
 
 Open and look at the Posts list page. [open posts if not already open]. When you click on the title of a post, it will open in the editor. However, notice that when you roll the mouse pointer over the title of a post, additional links appear below the title. These include **Edit** (same as clicking on the title), **Quick Edit**, **Trash** and **View**. Some plugins add more links here as well.
 
@@ -122,7 +122,7 @@ Open and look at the Posts list page. [open posts if not already open]. When you
 *   **Trash** moves the post to the trash folder. You can recover anything that you have put into the trash for up 30 days, unless you have intentionally deleted it or unless your WordPress install has designated a different length of time.
 *   **View** links to the publicly visible post on the site.
 
-[caption id="attachment_1767" align="alignright" width="300"][![Posts Bulk Edit](http://make.wordpress.org/training/files/2014/10/posts_bulk_edit-300x167.png)](http://make.wordpress.org/training/files/2014/10/posts_bulk_edit.png) Posts Bulk Edit[/caption] You can use the checkboxes next to the titles to perform actions on multiple items. After checking one or more boxes [check some boxes], the **Bulk Actions** drop-down shows you the actions that can be performed. [Click drop-down] As you can see, the actions here are **Edit** and **Move to Trash**. 
+[caption id="attachment_1767" align="alignright" width="300"][![Posts Bulk Edit](/images/Bulk-edit.png)](/images/Bulk-edit.png) Posts Bulk Edit[/caption] You can use the checkboxes next to the titles to perform actions on multiple items. After checking one or more boxes [check some boxes], the **Bulk Actions** drop-down shows you the actions that can be performed. [Click drop-down] As you can see, the actions here are **Edit** and **Move to Trash**. 
 
 If you select **Edit** and click **Apply**, you'll see the same menu that we did earlier for **Quick Edit**. Except now, any changes will be applied to all of the items with checked boxes, when the **Update** button is clicked. Be careful, you can change a lot of things with one click [click Cancel]. 
 
@@ -138,11 +138,11 @@ Lastly, you can search for words or phrases that may be contained in your posts.
 
 #### Pages List
 
-[caption id="attachment_1768" align="alignright" width="300"][![Pages List](http://make.wordpress.org/training/files/2014/10/pages_edit-300x167.png)](http://make.wordpress.org/training/files/2014/10/pages_edit.png) Pages List[/caption] [Display Pages list] The pages list is similar to the Posts list but has fewer columns. This reflects the simpler nature of pages vs. posts. The roll-over behavior remains the same, when you move the mouse pointer over a page title. There is still a bulk actions drop-down with the same options that you saw in the Posts list.
+[caption id="attachment_1768" align="alignright" width="300"][![Pages List](/images/List-pages.png)](/images/List-pages.png) Pages List[/caption] [Display Pages list] The pages list is similar to the Posts list but has fewer columns. This reflects the simpler nature of pages vs. posts. The roll-over behavior remains the same, when you move the mouse pointer over a page title. There is still a bulk actions drop-down with the same options that you saw in the Posts list.
 
 #### Media Library
 
-[caption id="attachment_1769" align="alignright" width="300"][![Media Library](http://make.wordpress.org/training/files/2014/10/media_library-300x167.png)](http://make.wordpress.org/training/files/2014/10/media_library.png) Media Library[/caption] [Display Media Library] The Media Library can display items in a grid view, as thumbnails only, or a list view, which is more like the Page and Post lists that you just saw. The only bulk action for Media Library items is **Delete Permanently,** which is pretty self-explanatory. A column that's unique to the Media Library is **Uploaded to**. This tells you on which page or post a particular item is being used. This column may be blank if the item was uploaded directly to the Library and not attached to a page or post.
+[caption id="attachment_1769" align="alignright" width="300"][![Media Library](/images/Media-library.png)](/images/Media-library.png) Media Library[/caption] [Display Media Library] The Media Library can display items in a grid view, as thumbnails only, or a list view, which is more like the Page and Post lists that you just saw. The only bulk action for Media Library items is **Delete Permanently,** which is pretty self-explanatory. A column that's unique to the Media Library is **Uploaded to**. This tells you on which page or post a particular item is being used. This column may be blank if the item was uploaded directly to the Library and not attached to a page or post.
 
 #### "Tools" and "Settings"
 
