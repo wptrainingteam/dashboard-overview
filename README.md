@@ -52,7 +52,7 @@ Replace "yourwebsite.com" with the actual URL of your website. Enter your userna
 
 ### Admin Bar
 
-[![Admin Bar](/images/Admin Bar.png)](/images/Admin Bar.png)
+![Dashboard-Admin-Bar](https://user-images.githubusercontent.com/935397/55598357-80765f00-5767-11e9-807f-1c7c1ee3c76f.png)
 Dashboard Admin Bar
 
 The Admin Bar is the dark gray menu bar that appears across the top of the dashboard. It also appears across the top of the site itself, when you are logged in. However it is _not_ visible to public visitors to the site. 
@@ -110,7 +110,7 @@ There are a number of widgets here that are included when WordPress is installed
 
 ### Left Sidebar
 
-![Dashboard Sidebar](/images/Dashboard Sidebar.png)](/images/Dashboard Sidebar.png)
+![Dashboard-Sidebar](https://user-images.githubusercontent.com/935397/55598465-17431b80-5768-11e9-9045-1bea8f894fa1.png)
 Dashboard Sidebar
 
 The most common way of moving around in the admin area is by using the navigation links in the left sidebar. Some of these are used much more frequently than others, particularly posts, pages and comments. 
