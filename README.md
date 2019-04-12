@@ -201,7 +201,9 @@ Demonstrate the ability to modify posts without opening them in the editor.
 
 * * *
 
-**True or false: "Settings" is always the last item in the sidebar navigation.** **Answer:** False. Other plugins may add menu items below Settings.
+**True or false: "Settings" is always the last item in the sidebar navigation.** 
+
+**Answer:** False. Other plugins may add menu items below Settings.
 
 * * *
 
