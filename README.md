@@ -226,3 +226,13 @@ Demonstrate the ability to modify posts without opening them in the editor.
 4.  Back up site and set the theme to a default WordPress theme (ie. Twenty Sixteen).
 
 **Answer:** 3\. Check the screen options tab at the top right under the admin bar.
+
+
+**How to disappear sticky widgets in dashboard view?**
+
+1.  Adding css display none in admin
+2.  Using visibility: hidden
+3.  Uncheck screen options at the top
+
+
+**Answer:** 3\. Uncheck screen options at the top.
